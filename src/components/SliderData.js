@@ -9,7 +9,7 @@ export const SliderData = [
   },
   {
     image:
-      "https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/4665189/pexels-photo-4665189.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
     image:
