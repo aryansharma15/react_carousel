@@ -22,6 +22,7 @@ const ImageSlider = ({slides}) => {
         return null;
     }
     
+    
     return (
     // <div>Images</div>
     <div className='slider'>
